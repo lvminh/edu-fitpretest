@@ -33,7 +33,7 @@
           // Go to the contest scoreboard.
           // ref: https://stackoverflow.com/questions/200337/whats-the-best-way-to-automatically-redirect-someone-to-another-webpage
           //alert("Hello Wordl");
-          window.location.href =  "https://icpc.hcmus.edu.vn/scoreboard";
+          window.location.href =  "https://coding.hcmus.edu.vn/";
           //window.location = "https://icpc.hcmus.edu.vn/scoreboard";
 
           document.getElementById("countdown").style.display = "none";
@@ -42,7 +42,7 @@
           
           // Go to the contest scoreboard.
           //alert("Hello Wordl");
-          window.location = "https://icpc.hcmus.edu.vn";
+          window.location = "https://coding.hcmus.edu.vn";
 
         }
         //seconds
