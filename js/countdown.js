@@ -12,6 +12,7 @@
       
       // format mm/dd/
       dayMonth = "09/18/",
+      birthday = dayMonth + yyyy + " 8:00"; // fixed
   
   today = mm + "/" + dd + "/" + yyyy;
   if (today > birthday) {
