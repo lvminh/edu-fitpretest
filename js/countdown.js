@@ -9,6 +9,8 @@
       mm = String(today.getMonth() + 1).padStart(2, "0"),
       yyyy = today.getFullYear(),
       nextYear = yyyy + 1,
+      
+      // format mm/dd/
       dayMonth = "09/18/",
   
   today = mm + "/" + dd + "/" + yyyy;
